@@ -59,6 +59,7 @@
 ### Destructor
 - A method called automatically when an object is destroyed.  
   _Note: Destructors are essential in C++ for resource management._
+- When the scope ends the constructors will die, and destructors will call in reverse order of constructor called
 
 ### Access Modifiers
 - **Public**: Accessible everywhere. Used for global access.

@@ -8,6 +8,7 @@ class A{
 };
 int main(){
     A obj;
+    //output: Default constructor
 
 return 0;
 }
